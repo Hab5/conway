@@ -12,5 +12,5 @@ Demo Video: https://streamable.com/wypen7
 - Change the speed of the simulation with the slider.
 
 # Build
-`cd build && cmake .. && make && ../game_of_life`  
+`cd build && cmake .. && make && cd .. && ./game_of_life`  
 
